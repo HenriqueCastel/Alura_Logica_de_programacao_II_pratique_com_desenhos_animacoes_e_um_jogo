@@ -1,6 +1,7 @@
 # Lógica de programação II: pratique com desenhos, animações e um jogo
 
-Faça esse curso de Lógica de programação e:
+### Faça esse curso de Lógica de programação e:
+
 - Continue a praticar lógica com JavaScript
 - Use e abuse de funções para facilitar seu trabalho
 - Conheça o Canvas para gerar desenhos e animações
