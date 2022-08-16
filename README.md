@@ -1,4 +1,4 @@
-# Lógica de programação II: pratique com desenhos, animações e um jogo
+# Javascript e HTML: pratique com desenhos, animações e um jogo
 
 ### Faça esse curso de Lógica de programação e:
 
